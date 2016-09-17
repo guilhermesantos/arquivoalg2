@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1473446563 source:d:\documents\c_workspace\reg_var_campo_var\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"pilha.c"
+
+1473314063 d:\documents\c_workspace\reg_var_campo_var\pilha.c
+	<stdio.h>
+	<stdlib.h>
+
